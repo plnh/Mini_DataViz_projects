@@ -15,7 +15,7 @@ Sales teams and operations managers need answers to critical questions:
 This Power BI dashboard tracks orders through multiple stages and calculates key processing metrics:
 
 **Key Metrics:**
-- Order-to-Ship Time
+- Handling Time: from receive an order to dispatch at warehouse
 - Ship-to-Delivery Time  
 - Total Order Cycle Time
 - On-time delivery rates
@@ -56,9 +56,3 @@ The dashboard delivered measurable results:
 - Reduced average processing time by 18%
 - Improved on-time delivery from 87% to 94%
 - Reduced shipping costs by 12% through optimized fulfillment
-
-## Getting Started
-
-Organizations should begin with a data assessment to identify available timestamps and quality issues. Start with basic processing time calculations before advancing to complex analytics.
-
-By transforming order processing data into visual insights, Power BI enables organizations to optimize their order-to-cash processes, improve customer satisfaction, and drive operational excellence.
