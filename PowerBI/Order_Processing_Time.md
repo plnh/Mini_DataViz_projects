@@ -24,7 +24,7 @@ This Power BI dashboard tracks orders through multiple stages and calculates key
 
 ## Data Model
 
-The solution connects Orders, Products, Customers, and Calendar tables. Key DAX measures include:
+The solution connects Orders, Customers, Carrier, and Calendar tables. Key DAX measures include:
 
 ```dax
 Avg Order Processing Days = 
@@ -55,5 +55,3 @@ The multi-page dashboard includes:
 
 The dashboard delivered measurable results:
 - Reduced average processing time by 18%
-- Improved on-time delivery from 87% to 94%
-- Reduced shipping costs by 12% through optimized fulfillment
