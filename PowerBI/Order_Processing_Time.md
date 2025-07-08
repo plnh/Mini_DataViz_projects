@@ -39,7 +39,9 @@ DIVIDE(
 ) * 100
 ```
 
-## Dashboard Design
+
+
+## Dashboard Design 
 
 The multi-page dashboard includes:
 - **Executive Summary:** High-level KPIs and trends
